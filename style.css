@@ -39,17 +39,17 @@ main {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-,mid-column-1 {
+.mid-column-1 {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
 }
 
-,mid-column-2 {
+.mid-column-2 {
     display: grid;
     grid-template-rows: 200px 1fr;
 }
 
-,mid-column-3 {
+.mid-column-3 {
     display: grid;
     grid-template-rows: 1fr 100px;
 }
